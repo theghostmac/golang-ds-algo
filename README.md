@@ -4,7 +4,12 @@ With this repository, I learn data structures and algorithms as required by job 
 There's a repo for data structures, and one for algorithms.
 There's also a few [exercises](https://github.com/theghostmac/golang-ds-algo/exercises) - with solutions included.
 
-
+## Installation
+```shell
+git clone (https://github.com/theghostmac/golang-ds-algo/)
+```
+**NB**
+There will be a tests.yaml file after integration with GH Workflows.
 
 **Content:**
 - [ ] **Data Structures**
