@@ -39,5 +39,5 @@ There's also a few [exercises](https://github.com/theghostmac/golang-ds-algo/exe
         - [ ] Depth-First Search (DFS)
         - [ ] Djikstra's Algorithm
         - [ ] Bellman-Ford Algorithm
-- [] **Exercises**
-  - [] [Sum of Arrays](https://github.com/theghostmac/golang-ds-algo/)
+- [ ] **Exercises**
+  - [ ] [Sum of Arrays](https://github.com/theghostmac/golang-ds-algo/)
