@@ -38,11 +38,11 @@ There will be a tests.yaml file after integration with GH Workflows.
         - [ ] Counting Sort
     - [ ] Searching (+ BFS and DFS)
         - [ ] Linear Search
-        - [ ] Binary Search
+        - [ ] Binary Search 
         - [ ] Graph + Tree Traversals
         - [ ] Breadth-First Search (BFS)
         - [ ] Depth-First Search (DFS)
         - [ ] Djikstra's Algorithm
         - [ ] Bellman-Ford Algorithm
 - [ ] **Exercises**
-  - [ ] [Sum of Arrays](https://github.com/theghostmac/golang-ds-algo/)
+  - [ ] [Sum of Arrays](https://github.com/theghostmac/golang-ds-algo/)  
