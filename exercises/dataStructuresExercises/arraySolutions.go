@@ -56,3 +56,26 @@ func BinarySearch(data []int, value int) bool {
 	}
 	return false
 }
+
+/*
+Case 4:
+Rotating a list by K positions.
+Given a list, you need to rotate its elements K number of times.
+*/
+
+func RotateArray(data []int, k int) {
+	n := len(data)
+	ReverseArray(data, 0, k-1)
+	ReverseArray(data, k, n-1)
+	ReverseArray(data, 0, n-1)
+}
+
+func ReverseArray(data []int, start int, end int) {
+	i := start
+	j := end
+	for i < j {
+		data[i], data[j] = data[j], data[i]
+		i++
+		j--
+	}
+}
