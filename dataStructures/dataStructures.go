@@ -14,4 +14,10 @@ func main() {
 	for i, value = range arr {
 		fmt.Println(" range ", value)
 	}
+
+	var mySlice = []int{2, 4, 6, 8, 10}
+	mySlice = append(mySlice, 12, 14)
+	fmt.Println("Capacity = ", cap(mySlice))
+	fmt.Println("Length = ", len(mySlice))
 }
+
