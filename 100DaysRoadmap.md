@@ -66,7 +66,7 @@ Day 51 - 100: Once you are comfortable with everything above, start doing proble
 
 Stick to chapters of arrays, linked lists, strings, stacks, queues and complexity.
 
-## Non Linear Data Structures
+## Non-Linear Data Structures
 * [ ] Day 52: Trees
   * [ ] Binary Tree
   * [ ] Binary Search Tree
