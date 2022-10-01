@@ -13,14 +13,16 @@ There will be a tests.yaml file after integration with GH Workflows.
 
 
 ## Learn a Language
-* [ ] Day 0:
-    * [ ] Stick to a programming language like C or C++. Make sure that you are comfortable with pointers/objects.
+* [x] Day 0:
+    * [x] Stick to a programming language like C or C++. Make sure that you are comfortable with pointers/objects.
 
 ## Time and Space Complexity
 Understanding Algorithmic Complexity is very important at the Beginning, because without that we can’t decide
 which algorithm, data structure and logic is efficient and which is best for the particular problem.
-* [ ] Day 1
-    * [ ] Understand the concept of Algorithmic complexity. Skip the theory for now, but for every piece of code you write, you should be able to derive both time and space complexity.
+* [x] Day 1
+    * [x] Watch [Algorithmic Complexity](https://www.youtube.com/watch?v=Mo4vesaut8g)
+    * [x] Understand the concept of Algorithmic complexity. Skip the theory for now, but for every piece of code you write,
+ you should be able to derive both time and space complexity.
 ## The Data Structures: Elementary - Advanced (Ingredients)
 Data Structures are very important concepts in every programming language; just as a chef knows which and how
 many ingredients to use to prepare a delicious meal, like every programmer should know which data structures and
