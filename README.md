@@ -14,6 +14,7 @@ There will be a tests.yaml file after integration with GH Workflows.
 **Content:**
 - [ ] **Data Structures**
     - [x] [Arrays](https://github.com/theghostmac/golang-ds-algo/)
+    - [ ] Solve [HackerRank 1](https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true)
     - [ ] [Hash Tables](https://github.com/theghostmac/golang-ds-algo/)
     - [ ] Linked Lists
         - [ ] [Singly Linked List](https://github.com/theghostmac/golang-ds-algo/)
