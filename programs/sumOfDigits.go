@@ -2,17 +2,17 @@ package main
 
 import "fmt"
 
-func findSumOfDigits(num int) int {
+// sumOfDigits calculates the sum of the digits that makes up a number
+func sumOfDigits(number int) int {
 	total := 0
-	for num > 0 {
-		total += num % 10
-		num /= 10
+	for number > 0 {
+		total += number % 10
+		number /= 10
 	}
 	return total
 }
 
 func main() {
-	myNum := 230
-	a := findSumOfDigits(myNum)
-	fmt.Println(a)
+	myNumber := 168
+	fmt.Println(sumOfDigits(myNumber))
 }

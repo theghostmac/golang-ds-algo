@@ -16,4 +16,15 @@ func main() {
 	myArr := []int{1, 2, 3, 4, 5, 6, 7, 8, 9, 0}
 	show := findSumOfArray(myArr)
 	fmt.Println(show)
+
+	square(4)
+}
+
+// square yields a 4 * 4 matrix. The number of cells is 16, i.e. 4^2, so square has O(n^2)
+func square(n int) {
+	for i := 0; i < n; i++ {
+		for j := 0; j < n; j++ {
+			fmt.Println(i, j)
+		}
+	}
 }
